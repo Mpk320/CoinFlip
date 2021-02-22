@@ -16,10 +16,12 @@ namespace Coin_flip
     static string flipCoin()
         {
         Random rnd = new Random();
-        if ( rnd.Next() % 2 ==0){   
-        }
-        Console.WriteLine("Even");
-        return "Tails";
+        if ( rnd.Next() % 2 ==0){
+            //Console.WriteLine("Even");
+            return "Tails";
+            }
+        return "Heads";
+        
         } 
     
     }
