@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Coding Stuff\\C# Practice\\Coin flip\\Coin flip.csproj": {}
+    "E:\\Coding Stuff\\GitHub shit\\CoinFlip\\Coin flip.csproj": {}
   },
   "projects": {
-    "E:\\Coding Stuff\\C# Practice\\Coin flip\\Coin flip.csproj": {
+    "E:\\Coding Stuff\\GitHub shit\\CoinFlip\\Coin flip.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Coding Stuff\\C# Practice\\Coin flip\\Coin flip.csproj",
+        "projectUniqueName": "E:\\Coding Stuff\\GitHub shit\\CoinFlip\\Coin flip.csproj",
         "projectName": "Coin flip",
-        "projectPath": "E:\\Coding Stuff\\C# Practice\\Coin flip\\Coin flip.csproj",
+        "projectPath": "E:\\Coding Stuff\\GitHub shit\\CoinFlip\\Coin flip.csproj",
         "packagesPath": "C:\\Users\\mpkas\\.nuget\\packages\\",
-        "outputPath": "E:\\Coding Stuff\\C# Practice\\Coin flip\\obj\\",
+        "outputPath": "E:\\Coding Stuff\\GitHub shit\\CoinFlip\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mpkas\\AppData\\Roaming\\NuGet\\NuGet.Config",
