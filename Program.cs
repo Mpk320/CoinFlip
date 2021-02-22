@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Coin_flip
 {
@@ -14,9 +14,8 @@ namespace Coin_flip
             coin()
 
         }
-
-       static int coin(int num)
-       {
+        string flipCoin(string[] args)
+        {
             bool flip = rand;
             if(flip == true)
             Console.WriteLine("Tails");
@@ -27,8 +26,9 @@ namespace Coin_flip
 
        static int random(int rand)
        {
-           int[] randNum = new int[] {1, 2};
-           
-       }
-    }
-}
+        Console.WriteLine("Number is even");
+        return "Tails";
+        }
+            } 
+  }
+
