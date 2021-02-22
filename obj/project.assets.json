@@ -8,26 +8,24 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mpkas\\.nuget\\packages\\": {}
+    "C:\\Users\\workw\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Coding Stuff\\C# Practice\\Coin flip\\Coin flip.csproj",
+      "projectUniqueName": "C:\\Users\\workw\\Dev\\CoinFlip\\Coin flip.csproj",
       "projectName": "Coin flip",
-      "projectPath": "E:\\Coding Stuff\\C# Practice\\Coin flip\\Coin flip.csproj",
-      "packagesPath": "C:\\Users\\mpkas\\.nuget\\packages\\",
-      "outputPath": "E:\\Coding Stuff\\C# Practice\\Coin flip\\obj\\",
+      "projectPath": "C:\\Users\\workw\\Dev\\CoinFlip\\Coin flip.csproj",
+      "packagesPath": "C:\\Users\\workw\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\workw\\Dev\\CoinFlip\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mpkas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\workw\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

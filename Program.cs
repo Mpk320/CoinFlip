@@ -6,29 +6,24 @@ namespace Coin_flip
     {
         static void Main(string[] args)
         {
-            
-            Console.WriteLine("Press enter to flip a coin");
-            Console.ReadLine();
 
-            Console.WriteLine();
-            coin()
-
+        Console.WriteLine("Press enter to flip a coin");
+        Console.ReadLine();
+        string flip = flipCoin();
+        Console.WriteLine(flip);
         }
-        string flipCoin(string[] args)
+
+    static string flipCoin()
         {
-            bool flip = rand;
-            if(flip == true)
-            Console.WriteLine("Tails");
+        Random rnd = new Random();
+        if (rnd.Next() % 2 ==0){
+            return "Tails";
+            }
+        return "Heads";
+        
+        } 
+    
+    }
 
-            if(flip == false)
-            Console.WriteLine("Heads");
-       }
-
-       static int random(int rand)
-       {
-        Console.WriteLine("Number is even");
-        return "Tails";
-        }
-            } 
-  }
-
+    
+}
